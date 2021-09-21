@@ -9,7 +9,7 @@ Download or clone repository and run `npm install minesweeper-module`
 
 ## Import 
 ```node
-import minesweeper from 'minesweeper-javascript-module'
+import minesweeper from 'minesweeper-module'
 ```
 
 ## Methods
