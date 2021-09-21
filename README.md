@@ -16,7 +16,7 @@ import minesweeper from 'minesweeper-javascript-module'
 - Ping
 - NewGame
 - GetGame(uuid)
-- ShowField(gameUuid)
-- MarkField(gameUuid)
-- QuestionField(gameUuid)
-- HideField(gameUuid)
+- ShowField(gameUuid, fieldUuid)
+- MarkField(gameUuid, fieldUuid)
+- QuestionField(gameUuid, fieldUuid)
+- HideField(gameUuid, fieldUuid)
