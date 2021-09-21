@@ -1,0 +1,12 @@
+{
+  "name": "minesweeper-javascript-sdk",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "author": "Juan Enrique Mellare",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.4"
+  }
+}
